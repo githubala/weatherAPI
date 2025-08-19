@@ -17,7 +17,7 @@ const cities = {
       "longitude": 77.6050
     },
     {
-      "place": "Whitefield",
+      "place": "White field",
       "latitude": 12.9698,
       "longitude": 77.7499
     },
